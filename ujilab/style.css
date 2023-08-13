@@ -1,0 +1,67 @@
+header{
+    text-align: center;
+}
+.form-group{
+    display: flex;
+    margin: 10px;
+}
+label{
+    width: 100px;
+    
+}
+input{
+    float: right;
+    width: 100px;
+    margin-left: 100px;
+}
+.transaksi{
+    margin: auto;
+    width: 30%;
+}
+.row{
+    border: 1px solid #050505;
+}
+.header-print h2{
+    text-align: center;
+}
+.main-print{
+    display: flex;
+}
+.from-print{
+    margin: 10px;
+    padding: 10px 12px;
+    width: 60%;
+}
+.to-print{
+    margin: 10px;
+    padding: 10px 12px;
+    float: right;
+    width: 40%;
+    text-align: right;
+}
+
+.container{
+    border: 1px solid #050505;
+    width: 250px;
+    height: 30%;
+    margin: auto;
+
+}
+.container-text{
+    text-align: center;
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+.container-button{
+    margin-top: 40px;
+    padding: 20px;
+}
+.container-button a{
+    margin: 10px;
+    padding: 10px;
+    background-color: aqua;
+    border: 2px solid #050505;
+}
